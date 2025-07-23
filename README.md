@@ -37,7 +37,7 @@ cd forex-predictor
 
 pip install -r requirements.txt
 
-Streamlit:
+3. Streamlit:
 
 streamlit run app.py
 
