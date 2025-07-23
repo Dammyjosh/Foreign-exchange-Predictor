@@ -54,7 +54,7 @@ docker pull damton/forex-predictor
 2. Run app on local machine
 For a Streamlit app (default port 8501):
 
-docker run -p 8501:8501 your-dockerhub-username/forex-predictor
+docker run -p 8501:8501 damton/forex-predictor
 Access the app at:
 ➡️ http://localhost:8501
 
